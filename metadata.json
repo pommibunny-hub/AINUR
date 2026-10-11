@@ -1,0 +1,6 @@
+{
+  "name": "Project Workspace",
+  "description": "Рабочее пространство веб-приложения на React, Vite и Tailwind CSS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
